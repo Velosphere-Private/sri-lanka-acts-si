@@ -2,8 +2,8 @@
   "dataset": "Sri Lanka Acts (Sinhala only)",
   "source": "https://documents.gov.lk",
   "source_note": "Scraped directly from official acts listing pages",
-  "updated_at_utc": "2026-07-16 05:26:00",
-  "n_docs": 1570,
+  "updated_at_utc": "2026-07-17 05:28:10",
+  "n_docs": 1571,
   "date_str_min": "1981-01-22",
   "date_str_max": "2026-07-03",
   "langs": [
